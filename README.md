@@ -18,7 +18,7 @@ How to build and run
 
 Steps
 1.	Clone the repository:
-git clone [https://github.com/YOUR_USERNAME/smart-campus-api.git](https://github.com/Akshika-2004/smart_campus_api)
+git clone https://github.com/Akshika-2004/smart_campus_api
 cd smart-campus-api
 2.	Build the project:
 mvn clean package
