@@ -15,6 +15,7 @@ All data is stored in memory using concurrentHashMap and ArrayList. No database 
 How to build and run
 
  Prerequisites
+ 
 	Java JDK 11 or higher
 	Apache maven 3.6+
 
