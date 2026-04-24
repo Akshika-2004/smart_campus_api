@@ -12,7 +12,8 @@ The API follows REST architectural principles with a clear, hierarchical resourc
 All data is stored in memory using concurrentHashMap and ArrayList. No database is used.
 
 
-How to build and run 
+How to build and run
+
  Prerequisites
 	Java JDK 11 or higher
 	Apache maven 3.6+
