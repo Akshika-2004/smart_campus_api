@@ -1,4 +1,5 @@
 API Design overview
+
 The API follows REST architectural principles with a clear, hierarchical resource structure:
 
 /api/v1                                      → Discovery endpoint (HATEOAS entry point)
